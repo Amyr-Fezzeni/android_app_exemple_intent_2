@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moyenne App</string>
+    <string name="dialog_title">Attention!</string>
+    <string name="dialog_message">Veuillier saisir les 3 notes pour calculer la moyenne!</string>
+</resources>
